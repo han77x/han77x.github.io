@@ -1,0 +1,47 @@
+h1 {
+    margin-top:0 auto;
+    text-align: center;
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+
+div#wrapper
+    {       
+   
+}
+
+
+p{
+    background-color: skyblue;
+    float:left;
+    width:49%;
+    height: 617px;
+    margin:0;
+}
+
+body{
+    margin:0 auto;
+    width:75%;
+}
+
+
+.image1 {
+    
+    float:right;
+    width:49%;
+}
+
+button
+{
+    background-color:#666;
+    font-size:24px;
+    display:block;
+    clear:both;  
+    margin:0 auto;
+}
+
+footer {
+    clear:both;
+    text-align: center;
+    margin-top:20px;
+}
